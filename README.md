@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="siddhisattur/../code.gif" height="175px"/></a>
+<img align="right" alt="GIF" src="siddhisattur/../code.gif" width="500" height="320"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Siddhi</h1>
 <h3 align="center">I'm a Aspiring Software Developer from India.</h3>
